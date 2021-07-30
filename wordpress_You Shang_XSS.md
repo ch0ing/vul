@@ -22,6 +22,6 @@ Open wechat switch and edit the "qrcode links " text area to "http://127.0.0.1/w
 Visit the posts page. We can see the alert page.
 
 
-![image-20210730180550253](image-20210730180550253.png)
+![image-20210730180550253](/img/image-20210730180550253.png)
 
-![image-20210730180628529](image-20210730180628529.png)
+![image-20210730180628529](/img/image-20210730180628529.png)
