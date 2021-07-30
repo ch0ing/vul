@@ -15,7 +15,7 @@
 
 ## Proof of Concept
 
-Open wechat switch and edit the "qrcode links " text area to "
+Open wechat switch and edit the "qrcode links " text area to 
 ```
 http://127.0.0.1/wo"onerror=alert(1);&quot;
 ```
