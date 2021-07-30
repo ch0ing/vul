@@ -17,7 +17,7 @@
 
 Open wechat switch and edit the "qrcode links " text area to "
 ```
-http://127.0.0.1/wo"onerror=alert(1);\&quot;
+http://127.0.0.1/wo"onerror=alert(1);&quot;
 ```
 
 ![image-20210730181143910](/img/image-20210730181143910.png)
