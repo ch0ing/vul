@@ -6,7 +6,7 @@
 
 ## Affects Plugins
 
-    Cookie Bar<=1.0.1
+    You Shangr<=1.0.1
     https://wordpress.org/plugins/you-shang/
 
 ## Author
