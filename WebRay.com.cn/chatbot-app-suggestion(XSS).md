@@ -9,7 +9,7 @@
 #### Tested on: Windows Server 2008 R2 Enterprise, Apache ,Mysql
 
 #### Description
-Persistent XSS (or Stored XSS) attack is one of the three major categories of XSS attacks, the others being Non-Persistent (or Reflected) XSS and DOM-based XSS. In general, XSS attacks are based on the victim’s trust in a legitimate, but vulnerable, website or web application.Zoo Management System does not filter the content correctly at the "content" module, resulting in the generation of stored XSS.
+Persistent XSS (or Stored XSS) attack is one of the three major categories of XSS attacks, the others being Non-Persistent (or Reflected) XSS and DOM-based XSS. In general, XSS attacks are based on the victim’s trust in a legitimate, but vulnerable, website or web application.ChatBot App with Suggestion does not filter the content correctly at the "content" module, resulting in the generation of stored XSS.
 
 #### Payload used:
 `</td><img src="" onerror="alert(111111111)"><td>123`
