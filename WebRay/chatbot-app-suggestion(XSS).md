@@ -5,7 +5,7 @@
 #### Exploit Author: webraybtl@webray.com.cn inc
 #### Vendor Homepage: https://www.sourcecodester.com/php/15316/chatbot-app-suggestion-phpoop-free-source-code.html
 #### Software Link:https://www.sourcecodester.com/download-code?nid=15316&title=ChatBot+App+with+Suggestion+in+PHP%2FOOP+Free+Source+Code
-#### Version: Zoo Management System 1.0
+#### Version: ChatBot App with Suggestion
 #### Tested on: Windows Server 2008 R2 Enterprise, Apache ,Mysql
 
 #### Description
