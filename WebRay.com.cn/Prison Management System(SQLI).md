@@ -23,9 +23,9 @@ http://localhost/pms/admin/?page=inmates/view_inmate&id=1%27%20and%201=2%20union
 
 2. Open Page http://localhost/pms/admin/?page=inmatesand click View button
 
-   ![image-20220606142934357](img/Prison Management System(SQLI).assets/image-20220606142934357.png)
+   ![image-20220606142934357](/img/Prison Management System(SQLI).assets/image-20220606142934357.png)
 
-   ![image-20220606142955008](img/Prison Management System(SQLI).assets/image-20220606142955008.png)
+   ![image-20220606142955008](/img/Prison Management System(SQLI).assets/image-20220606142955008.png)
 
    
 
@@ -34,5 +34,5 @@ http://localhost/pms/admin/?page=inmates/view_inmate&id=1%27%20and%201=2%20union
 
 4. Viewing the dbuser and database name in page;
 
-   ![image-20220606143008496](img/Prison Management System(SQLI).assets/image-20220606143008496.png)
+   ![image-20220606143008496](/img/Prison Management System(SQLI).assets/image-20220606143008496.png)
 
