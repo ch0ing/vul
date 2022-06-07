@@ -25,7 +25,7 @@ Password: admin123
 
 2. Put XSS payload   in the content box and click on Edit Account to publish the page
 
-![image-20220523162828564](/img/image-20220523162828564.png)
+![image-20220523162828564](./img/image-20220523162828564.png)
 
 
 4. Viewing the successfully published page,We can see the alert.
