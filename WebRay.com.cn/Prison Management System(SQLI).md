@@ -22,11 +22,10 @@ http://localhost/pms/admin/?page=inmates/view_inmate&id=1%27%20and%201=2%20union
     Password: admin123
 
 2. Open Page http://localhost/pms/admin/?page=inmatesand click View button
-![image-20220523162828564](./img/image-20220523162828564.png)
-![image-20220607095010559](./img/Prison Management System(XSS).assets/image-20220607095010559.png)
-![image-20220606142934357](../img/Prison Management System(SQLI).assets/image-20220606142934357.png)
+![image-20220607095010559](./img/PrisonManagementSystem(XSS).assets/image-20220607095010559.png)
+![image-20220606142934357](../img/PrisonManagementSystem(SQLI).assets/image-20220606142934357.png)
 
-![image-20220606142955008](../img/Prison Management System(SQLI).assets/image-20220606142955008.png)
+![image-20220606142955008](../img/PrisonManagementSystem(SQLI).assets/image-20220606142955008.png)
 
    
 
