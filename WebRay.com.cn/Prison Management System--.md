@@ -10,6 +10,7 @@
 
 #### Description
 Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
+Can create a new user without authorization
 
 #### Payload used:
 ```
