@@ -1,4 +1,4 @@
-# Prison Management System  - Inmates/view_inmate 'id' SQL inject(SQLI)
+# Prison Management System  - /pms/admin/visits/view_visit.php 'id' SQL inject(SQLI)
 
 
 #### Exploit Title: Prison Management System  - /admin/visits/view_visit.php 'id' SQL inject(SQLI)
