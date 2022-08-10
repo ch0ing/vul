@@ -66,7 +66,7 @@ Content-Disposition: form-data; name="save"
    
 2. Open Page http://192.168.67.5/，We can see the alert.;
 
-   ![image-20220810135857875](img/Company Website CMS(XSS)/image-20220810135857875.png)
+   ![image-20220810135857875](./img/Company Website CMS(XSS)/image-20220810135857875.png)
 
    
 
