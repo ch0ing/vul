@@ -68,6 +68,7 @@ Content-Disposition: form-data; name="save"
 3. 
 
    ![image-20220810135857875](./img/Company Website CMS(XSS)/image-20220810135857875.png)
+   
    ![image-20220607095010559](./img/PrisonManagementSystem(XSS).assets/image-20220607095010559.png)
 
    
