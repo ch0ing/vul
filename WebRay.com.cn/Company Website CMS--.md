@@ -75,7 +75,7 @@ Content-Disposition: form-data; name="save"
    
 2. Open Page http://192.168.67.5/，title has been changed
 
-   ![image-20220810142427550](img/Company Website CMS--/image-20220810142427550.png)
+   ![image-20220810142427550](./img/image-20220810142427550.png)
 
    
 
