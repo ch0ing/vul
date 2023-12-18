@@ -25,13 +25,13 @@ The reason for the SQL injection vulnerability is that the website application d
 
 2. Open Page http://192.168.67.10/between-dates-reports.php
 
-   ![image-20231218162942733](img/Online student management system(SQLI)/image-20231218162942733.png)
+   ![image-20231218162942733](img/Onlinestudentmanagementsystem(SQLI)/image-20231218162942733.png)
 
    
 
 3. Put SQL payload   in the BURP;
 
-   ![image-20231218163013713](img/Online student management system(SQLI)/image-20231218163013713.png)
+   ![image-20231218163013713](img/Onlinestudentmanagementsystem(SQLI)/image-20231218163013713.png)
 
    ```
    POST /between-date-reprtsdetails.php HTTP/1.1
@@ -58,9 +58,9 @@ The reason for the SQL injection vulnerability is that the website application d
 
    
 
-![image-20231218163108092](img/Online student management system(SQLI)/image-20231218163108092.png)
+![image-20231218163108092](img/Onlinestudentmanagementsystem(SQLI)/image-20231218163108092.png)
 
-![image-20231218163057715](img/Online student management system(SQLI)/image-20231218163057715.png)
+![image-20231218163057715](img/Onlinestudentmanagementsystem(SQLI)/image-20231218163057715.png)
 
 
 
