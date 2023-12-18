@@ -27,11 +27,11 @@ Persistent XSS (or Stored XSS) attack is one of the three major categories of XS
 
 2. Open Page http://192.168.67.10/manage-students.php, Click the button to jump to the editing page.
 
-   ![image-20231218155025560](img/Online student management system(XSS)/image-20231218155025560.png)
+   ![image-20231218155025560](img/Onlinestudentmanagementsystem(XSS)/image-20231218155025560.png)
 
    http://192.168.67.10/edit-student-detail.php?editid=1
 
-   ![image-20231218160309450](img/Online student management system(XSS)/image-20231218160309450.png)
+   ![image-20231218160309450](img/Onlinestudentmanagementsystem(XSS)/image-20231218160309450.png)
 
    
 
@@ -127,7 +127,7 @@ Persistent XSS (or Stored XSS) attack is one of the three major categories of XS
 
    
 
-   ![image-20231218155743009](img/Online student management system(XSS)/image-20231218155743009.png)
+   ![image-20231218155743009](img/Onlinestudentmanagementsystem(XSS)/image-20231218155743009.png)
 
    
 
